@@ -61,8 +61,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧮 **[DAA Practicals](https://github.com/gnaneswar449/DAA-practicals)** | Implementations and complexity analysis of core Design & Analysis of Algorithms (Sorting & Searching). | `Python` `Algorithms` |
-| 📚 **[Book Recommendation System](https://github.com/gnaneswar449/book-recommendation-system)** | Interactive Web Application offering personalized book recommendations with smart filtering. | `HTML` `CSS` `JavaScript` `Node.js` |
+| 🧮 **[DAA-practicals](https://github.com/gnaneswar449/DAA-practicals)** | Implementations and complexity analysis of core Design & Analysis of Algorithms (Sorting & Searching). | `Python` `Algorithms` |
+| 📚 **[Book Recommendation System (eswar_3)](https://github.com/gnaneswar449/eswar_3)** | Interactive Web Application offering personalized book recommendations with smart filtering. | `HTML` `CSS` `JavaScript` `Node.js` |
 
 ---
 
