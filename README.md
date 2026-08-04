@@ -13,16 +13,17 @@
 
 ## 📌 About Me
 
-- 👨‍💻 **Passionate Developer** with a strong foundation in Data Structures, Algorithms, and Web Development.
-- 📚 Currently mastering **Algorithms & System Design** and building modern web applications.
+- 👨‍💻 **Passionate Developer** with a strong foundation in Data Structures, Algorithms, Backend Engineering, and AI Infrastructure.
+- 📚 Currently building modern AI agent security middleware, scalable microservices, and web applications.
 - 🎯 Goal: Building clean, performant, and impactful software solutions.
-- ⚡ Fun Fact: I love breaking down complex algorithmic problems into clean, optimized code.
+- ⚡ Fun Fact: I love breaking down complex algorithmic & backend problems into clean, optimized code.
 
 ---
 
 ## 🛠️ Languages & Technologies
 
 ### **Programming Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,8 +62,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧮 **[DAA-practicals](https://github.com/gnaneswar449/DAA-practicals)** | Implementations and complexity analysis of core Design & Analysis of Algorithms (Sorting & Searching). | `Python` `Algorithms` |
-| 📚 **[Book Recommendation System (eswar_3)](https://github.com/gnaneswar449/eswar_3)** | Interactive Web Application offering personalized book recommendations with smart filtering. | `HTML` `CSS` `JavaScript` `Node.js` |
+| 🛡️ **[Back-end for Agents (BFA Gateway)](https://github.com/gnaneswar449/bfa-gateway)** | Standard backend security & middleware layer for safe AI agent integration (ABAC, Audit Trail, Rate Limiter & Web Dashboard). | TypeScript Express Node.js AI Security |
+| 📚 **[Book Recommendation System (eswar_3)](https://github.com/gnaneswar449/eswar_3)** | Interactive Web Application offering personalized book recommendations with smart filtering. | HTML CSS JavaScript Node.js |
 
 ---
 
