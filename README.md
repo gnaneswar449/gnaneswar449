@@ -18,13 +18,12 @@
 
 ---
 
-## 🚀 Featured Engineering & Research Projects
+## 🚀 Featured Projects
 
-| Project | Description | Key Innovations & Tech |
+| Project | Description | Key Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ **[Back-end for Agents (BFA Gateway)](https://github.com/gnaneswar449/bfa-gateway)** | Enterprise-grade backend security gateway & middleware layer placing ABAC policy enforcement, rate limiting, and output sanitization between AI agents and internal microservices. | TypeScript Express 5 Node.js ABAC Policy Engine AI Agent Security |
-| 📚 **[Book Recommendation System (eswar_3)](https://github.com/gnaneswar449/eswar_3)** | Modern full-stack interactive web application providing personalized recommendation algorithms and smart filtering. | JavaScript Node.js Express HTML5/CSS3 |
-| 🧮 **[DAA Practicals & Complexity Suite](https://github.com/gnaneswar449/DAA-practicals)** | Implementations and asymptotic analysis of core Design & Analysis of Algorithms. | Python Algorithms Complexity Analysis |
+| 🛡️ **[Back-end for Agents (BFA Gateway)](https://github.com/gnaneswar449/bfa-gateway)** | Enterprise-grade backend security gateway & middleware layer placing ABAC policy enforcement, rate limiting, and output sanitization between AI agents and internal microservices. | TypeScript Express 5 Node.js ABAC Policy Engine AI Security |
+| 📚 **[Book Recommendation System (eswar_3)](https://github.com/gnaneswar449/eswar_3)** | Interactive Web Application offering personalized book recommendations with smart filtering. | JavaScript Node.js Express HTML5/CSS3 |
 
 ---
 
